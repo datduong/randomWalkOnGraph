@@ -9,5 +9,7 @@ To run, install these libraries.
 # Ubuntu installation instructions
 
 sudo apt-get install python-pip python-dev build-essential
+
 sudo apt-get install python-igraph python-numpy python-scipy python-matplotlib
+
 pip install --upgrade pip
